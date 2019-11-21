@@ -1,0 +1,57 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Mario H\\Desktop\\Producto AMTI\\practica-12-reynaldo-martinez-master\\practica-12-reynaldo-martinez-master\\guia12\\guia12.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Mario H\\Desktop\\Producto AMTI\\practica-12-reynaldo-martinez-master\\practica-12-reynaldo-martinez-master\\guia12\\guia12.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Mario H\\Desktop\\Producto AMTI\\practica-12-reynaldo-martinez-master\\practica-12-reynaldo-martinez-master\\guia12\\guia12.csproj",
+        "projectName": "guia12",
+        "projectPath": "C:\\Users\\Mario H\\Desktop\\Producto AMTI\\practica-12-reynaldo-martinez-master\\practica-12-reynaldo-martinez-master\\guia12\\guia12.csproj",
+        "packagesPath": "C:\\Users\\Mario H\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Mario H\\Desktop\\Producto AMTI\\practica-12-reynaldo-martinez-master\\practica-12-reynaldo-martinez-master\\guia12\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Mario H\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.1": {
+          "dependencies": {
+            "Microsoft.NETCore.App": {
+              "target": "Package",
+              "version": "[2.1.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    }
+  }
+}
